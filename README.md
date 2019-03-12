@@ -2,6 +2,8 @@
 
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
 
+#### 归属：[CSR](https://github.com/sochub/CSR)
+
 ## [描述](https://github.com/sochub/CSR8675/wiki) 
 
 [CSR8675](https://www.qualcomm.com/products/csr8675)是目前qualcomm（高通）家最新的Bluetooth Audio SoC，也是市场上最为强大的蓝牙SoC之一
@@ -12,7 +14,7 @@
 
 #### [开发文档](docs/)
 
-
+#### [开发工具](https://github.com/sochub/CSR)
 
 ---
 
