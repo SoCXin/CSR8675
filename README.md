@@ -14,6 +14,8 @@
 
 #### [开发文档](docs/)
 
+包括蓝牙音频开发资料
+
 #### [开发工具](https://github.com/sochub/CSR)
 
 ---
