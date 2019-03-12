@@ -1,22 +1,20 @@
-﻿
-# CSR8675
+﻿# [CSR8675](https://github.com/sochub/CSR8675)
 
-[![sites](docs/mcuyun.png)](http://www.mcuyun.com)
+[![sites](SoC/SoC.png)](http://www.qitas.cn) 
 
-### 简介
+## [描述](https://github.com/sochub/CSR8675/wiki) 
 
-作为高通家的CSR，最新顶级蓝牙芯片，各种规格都是杠杠滴。
+[CSR8675](https://www.qualcomm.com/products/csr8675)是目前qualcomm（高通）家最新的Bluetooth Audio SoC，也是市场上最为强大的蓝牙SoC之一
+
+[![sites](docs/CSR8675.jpg)](https://www.qualcomm.com/media/documents/files/csr8675-product-brief.pdf) 
+
+## [组成](SoC/) 
+
+#### [开发文档](docs/)
+
+
 
 ---
 
-### docs
-
-包括芯片手册等
-
-
----
-
-### 说明
-
-2018-10-20: 创建工程仓库，添加工程代码
-
+###  [SoC开发平台](http://www.qitas.cn)   
+###  qitas@qitas.cn
