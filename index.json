@@ -1,0 +1,35 @@
+{
+    "type":"SoC",
+    "name":"CSR8675",
+    "title": "Qualcomm CSR8675 SoC",
+    "description":"Qualcomm Bluetooth Audio SoC",
+    "Core": {
+        "CoreNum": 1,
+        "Core":"RISC",
+        "Fmax":80,
+        "DMIPS": 120,
+        "CoreMark": 160
+    },
+    "manufacturer": {
+        "vendor":"Qualcomm",
+        "homepage":"https://www.qualcomm.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/CSR8675.git"
+    },
+    "version":"1.0.0",
+    "series":["CSR8675"],
+    "package":["WLCSP79","VFBGA112"],
+    "peripheral": ["Bluetooth","DSP","Audio","SDIO","UART","SPI","IIC"],
+    "ESD": {
+        "HBM": 2000,
+        "CDM": 500
+    },
+    "keywords": [
+        "RISC",
+        "Qualcomm",
+        "Bluetooth","DSP","Audio","ADC","I2S","CAN","I2C","RTC","SPI","UART",
+        "3.6V","1.8V"
+    ]
+}
